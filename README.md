@@ -7,8 +7,8 @@ Soy estudiante de Ingeniería en Sistemas Computacionales apasionado por el desa
   - Frontend: HTML, CSS, JavaScript
   - Backend: PHP, Python, C#, C++, SQL, NoSQL
   - Frameworks y tecnologías: Laravel, Flutter
-  - Desarrollo de APIs: RESTful APIs
-  - Base de datos: MySQL, MongoDB
+  - Desarrollo de APIs: RESTful APIs, Postman
+  - Base de datos: MySQL, MongoDB, PostgreSQL
 
 ## Intereses
   - Programación competitiva: Mejora continua en resolución de problemas algorítmicos.
